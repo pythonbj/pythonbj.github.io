@@ -1,0 +1,1 @@
+print("Python2无法输出中文")
